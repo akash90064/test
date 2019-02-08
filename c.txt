@@ -1,0 +1,15 @@
+                                     C - Programming
+
+write a program to add two numbers using c programming
+
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int a,b,sum;
+scanf("%d%d",&a,&b);
+printf("enter the numbers here");
+sum=a+b
+printf("%d",sum);
+getch();
+}
